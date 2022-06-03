@@ -1,0 +1,19 @@
+
+m
+java:S1192"RDefine a constant instead of duplicating this literal "minyem@hotmail.fr" 3 times.(Ù“»Ñÿÿÿÿÿ
+m
+java:S1192"RDefine a constant instead of duplicating this literal "gousou@hotmail.fr" 3 times.(Ù“»Ñÿÿÿÿÿ
+n
+java:S1192"SDefine a constant instead of duplicating this literal "aimeminy@gmail.com" 5 times.(Ù“»Ñÿÿÿÿÿ
+^
+java:S1192"HDefine a constant instead of duplicating this literal "Du_Mont" 3 times.(±™ÒÈ
+o
+java:S1104"YMake DUMMY_REUNION a static final constant or non-public and provide accessors if needed.(ß“âµ
+I
+java:S1444"3Make this "public static DUMMY_REUNION" field final(ß“âµ
+n
+java:S3008"XRename this field "DUMMY_REUNION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß“âµ
+3
+java:S2386"Make this member "protected".(ß“âµ
+U
+java:S1118	":Add a private constructor to hide the implicit public one.(»ûž†ùÿÿÿÿ
